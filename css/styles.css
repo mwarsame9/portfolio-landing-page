@@ -1,0 +1,35 @@
+body       {
+  background-color:	black;
+  color: black;
+
+}
+
+
+img.pull-left {
+  float: left;
+  width: 30%;
+}
+
+.panel-default > .panel-heading {
+  background-color: #ffa500;
+  font-family: 'Amatic SC', cursive;
+}
+
+.panel-default > .panel-heading > .panel-title {
+  color: black;
+}
+
+.panel-body {
+  font-family: 'Signika', sans-serif;
+  background-color: #ffc966;
+  border-radius: 0px;
+}
+
+div.jumbotron {
+  background-color: #ffc966;
+  font-family: 'Amatic SC', cursive;
+}
+
+span.school {
+  font-style: italic;
+}
